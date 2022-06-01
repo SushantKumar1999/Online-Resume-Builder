@@ -1,0 +1,20 @@
+.personal-container,
+.qual-container {
+  height: 92vh;
+  display: flex;
+  
+}
+
+.personal-form,
+.qual-form {
+  width: 100%;
+}
+
+.qual-gen, .qual-download,.qual-save {
+  
+ margin: 0px 22px;
+}
+
+#preview-refer{
+  width: 100%;
+}
